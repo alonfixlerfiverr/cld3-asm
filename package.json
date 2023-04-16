@@ -1,5 +1,5 @@
 {
-  "name": "cld3-asm",
+  "name": "@alonfixlerfiverr/cld3-asm",
   "version": "3.1.2",
   "description": "WebAssembly based Javascript bindings for google compact language detector 3",
   "main": "./dist/cjs/index.js",
